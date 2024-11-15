@@ -10,6 +10,8 @@ python = ">=3.10,<3.13"
 flask = "^3.0.3"
 robotframework = "^7.1.1"
 robotframework-seleniumlibrary = "^6.6.1"
+robot = "^20071211"
+selenium = "^4.26.1"
 
 
 [build-system]
