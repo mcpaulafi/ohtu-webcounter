@@ -7,3 +7,6 @@ src/__pycache__/*
 htmlcov
 *.log
 selenium-screenshot*
+log.html
+output.xml
+report.html
